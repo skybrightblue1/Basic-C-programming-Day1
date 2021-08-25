@@ -51,5 +51,8 @@
     <ClCompile Include="9_연습.c">
       <Filter>소스 파일\Day1</Filter>
     </ClCompile>
+    <ClCompile Include="1_포맷.c">
+      <Filter>소스 파일\Day2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
